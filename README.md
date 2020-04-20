@@ -1,2 +1,7 @@
 # KNN-Placas_Veiculares_Brasileiras
+Português
 Pesquisa experimental e bibliográfica que une os conceitos de inteligência artificial e visão computacional, convergindo para um mesmo propósito. O projeto tem por finalidade o reconhecimento de caracteres alfanuméricos extraídos de placas veiculares, através da detecção de identificação. A aplicação foi desenvolvida em linguagem Python, com o uso do classificador KNN e da biblioteca Opencv. Foram utilizadas X imagens para treinar o algoritmo. Como resultado, obtivemos uma taxa de acerto de 45,04% para arquivos com a extensão .jpg e 94,24% para arquivos .png. Espera-se aprimorar esse projeto, para que seja possível alcançar melhorias no processo com placas veiculares brasileiras, pois nos testes não foi feita esta distinção.
+
+
+English
+Experimental and bibliographical research that unites the concepts of artificial intelligence and computational vision, converging towards the same purpose. The purpose of the project is the recognition of alphanumeric characters of vehicular plaques, by extracting images containing such information or identifying that it is not possible to detect or recognize them. The application was developed in Python language, using the KNN classifier and the Opencv library. X images were used to train the algorithm. As a result, we obtained a hit rate of 45.04% for files with the .jpg extension and 94.24% for .png files. It is hoped to improve this project, so that it is possible to achieve improvements in the process with Brazilian vehicle plates.
